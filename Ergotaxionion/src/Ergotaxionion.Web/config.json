@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Ergotaxionion.Web"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Ergotaxionion.Web-cfd186a4-bcad-40f7-8f37-c1ab2975c8c8;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
